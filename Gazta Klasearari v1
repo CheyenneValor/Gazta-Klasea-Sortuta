@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+Gazta g = new Gazta();
+g.lortuPisua();
 public class Gazta {
 	static String gazta_mota;
 	static int esn_kantitea;
